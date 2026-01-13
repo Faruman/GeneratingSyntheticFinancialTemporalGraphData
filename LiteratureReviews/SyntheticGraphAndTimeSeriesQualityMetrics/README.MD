@@ -24,7 +24,7 @@ OR
 ```
 [LitRev_SyntheticTemporalGraphDataGeneration.xlsx](./LitRev_SyntheticTemporalGraphDataGeneration.xlsx)
 
-## Selection and Extraction Procedure
+### Selection and Extraction Procedure
 
 After identifying candidate papers on synthetic data generation, we applied a two-stage screening process:
 
